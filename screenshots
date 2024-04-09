@@ -1,0 +1,36 @@
+1.	clone the repository onto your local machine using the command line.
+ 
+2.	cd into the repo folder and create a new git branch called "add-read-me" (can be done either locally or through GitHub) and checkout that branch into your local repository.
+
+ 
+3.	Add the text "<Your name>'s User Page" to the "README.md" file (e.g. "Powell's User Page"). This can be done using a separate text editor.
+ 
+ 
+
+
+
+
+
+
+4.	add the new file to git.
+ 
+5.	commit the files with the commit message "Update readme file".
+
+ 
+
+6. push the commit to the remote branch. (You may need to use the set-upstream flag if you created the branch locally).
+ 
+
+
+ 
+•	.gitignore
+
+ 
+
+ 
+•	A README file with the URL of your published GitHub pages site
+
+https://github.com/UCSDJonghun/cse110_lab1/blob/main/README.md
+
+Any other files you created for this assignment 
+https://github.com/UCSDJonghun/cse110_lab1/blob/main/index.md
