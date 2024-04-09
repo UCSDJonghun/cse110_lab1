@@ -23,8 +23,8 @@ C++: `cout << "Hello World!;`
 
 ## Section links
 
-(https://UCSDJonghun.github.io/cse110_Lab1/#Jonghun's-Page)
+-[Link to TOP](https://UCSDJonghun.github.io/cse110_Lab1/#Jonghun's-Page)
 
-(https://UCSDJonghun.github.io/cse110_Lab1/#Languages)
+-[Link to Languages](https://UCSDJonghun.github.io/cse110_Lab1/#Languages)
 
-(https://UCSDJonghun.github.io/cse110_Lab1/#What-classes-taking-this-quarter?)
+-[Link to What-classes-taking-this-quarter?](https://UCSDJonghun.github.io/cse110_Lab1/#What-classes-taking-this-quarter?)
