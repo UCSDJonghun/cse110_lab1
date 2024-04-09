@@ -2,6 +2,7 @@
 ![clone](https://github.com/UCSDJonghun/cse110_lab1/assets/114322721/ff0ed893-c177-4ba3-b548-8155cc7823a0)
 
 2.	cd into the repo folder and create a new git branch called "add-read-me" (can be done either locally or through GitHub) and checkout that branch into your local repository.
+
 ![cd branch checkout](https://github.com/UCSDJonghun/cse110_lab1/assets/114322721/85e24641-8c11-4e45-bccc-0ceacdb92be6)
 
  
@@ -12,9 +13,11 @@
 ![add2](https://github.com/UCSDJonghun/cse110_lab1/assets/114322721/fc4ff5a2-8afa-4ad9-922a-358e110a2c82)
 
 4.	add the new file to git.
+ 
  ![add3](https://github.com/UCSDJonghun/cse110_lab1/assets/114322721/e5e2d6ca-7217-455e-9325-32f11bbedbbf)
 
 5.	commit the files with the commit message "Update readme file".
+
 ![commit](https://github.com/UCSDJonghun/cse110_lab1/assets/114322721/40382995-3a09-4e44-a9fd-b13d7aad8a8c)
 
  
